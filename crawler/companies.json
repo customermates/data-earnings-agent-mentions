@@ -1,0 +1,155 @@
+{
+ "note": "US SEC filers (10-Q/10-K) among SaaS, CRM and big-tech companies. Foreign private issuers (SAP, monday.com, Shopify) file 20-F/6-K and are left out.",
+ "companies": [
+  {
+   "ticker": "CRM",
+   "cik": 1108524,
+   "name": "Salesforce",
+   "segment": "CRM"
+  },
+  {
+   "ticker": "HUBS",
+   "cik": 1404655,
+   "name": "HubSpot",
+   "segment": "CRM"
+  },
+  {
+   "ticker": "FRSH",
+   "cik": 1544522,
+   "name": "Freshworks",
+   "segment": "CRM"
+  },
+  {
+   "ticker": "GTM",
+   "cik": 1794515,
+   "name": "ZoomInfo",
+   "segment": "Sales data"
+  },
+  {
+   "ticker": "NOW",
+   "cik": 1373715,
+   "name": "ServiceNow",
+   "segment": "Workflow"
+  },
+  {
+   "ticker": "WDAY",
+   "cik": 1327811,
+   "name": "Workday",
+   "segment": "HR and finance"
+  },
+  {
+   "ticker": "ADBE",
+   "cik": 796343,
+   "name": "Adobe",
+   "segment": "Creative and marketing"
+  },
+  {
+   "ticker": "INTU",
+   "cik": 896878,
+   "name": "Intuit",
+   "segment": "Finance"
+  },
+  {
+   "ticker": "ORCL",
+   "cik": 1341439,
+   "name": "Oracle",
+   "segment": "Enterprise software"
+  },
+  {
+   "ticker": "MSFT",
+   "cik": 789019,
+   "name": "Microsoft",
+   "segment": "Big tech"
+  },
+  {
+   "ticker": "GOOGL",
+   "cik": 1652044,
+   "name": "Alphabet",
+   "segment": "Big tech"
+  },
+  {
+   "ticker": "AMZN",
+   "cik": 1018724,
+   "name": "Amazon",
+   "segment": "Big tech"
+  },
+  {
+   "ticker": "ZM",
+   "cik": 1585521,
+   "name": "Zoom",
+   "segment": "Collaboration"
+  },
+  {
+   "ticker": "TEAM",
+   "cik": 1650372,
+   "name": "Atlassian",
+   "segment": "Collaboration"
+  },
+  {
+   "ticker": "ASAN",
+   "cik": 1477720,
+   "name": "Asana",
+   "segment": "Collaboration"
+  },
+  {
+   "ticker": "BOX",
+   "cik": 1372612,
+   "name": "Box",
+   "segment": "Collaboration"
+  },
+  {
+   "ticker": "DOCU",
+   "cik": 1261333,
+   "name": "Docusign",
+   "segment": "Collaboration"
+  },
+  {
+   "ticker": "TWLO",
+   "cik": 1447669,
+   "name": "Twilio",
+   "segment": "Communications"
+  },
+  {
+   "ticker": "DDOG",
+   "cik": 1561550,
+   "name": "Datadog",
+   "segment": "Infrastructure"
+  },
+  {
+   "ticker": "SNOW",
+   "cik": 1640147,
+   "name": "Snowflake",
+   "segment": "Data"
+  },
+  {
+   "ticker": "MDB",
+   "cik": 1441816,
+   "name": "MongoDB",
+   "segment": "Data"
+  },
+  {
+   "ticker": "PLTR",
+   "cik": 1321655,
+   "name": "Palantir",
+   "segment": "Data"
+  },
+  {
+   "ticker": "PATH",
+   "cik": 1734722,
+   "name": "UiPath",
+   "segment": "Automation"
+  },
+  {
+   "ticker": "CRWD",
+   "cik": 1535527,
+   "name": "CrowdStrike",
+   "segment": "Security"
+  },
+  {
+   "ticker": "OKTA",
+   "cik": 1660134,
+   "name": "Okta",
+   "segment": "Security"
+  }
+ ]
+}

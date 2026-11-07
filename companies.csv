@@ -1,0 +1,26 @@
+ticker,cik,name,segment
+CRM,1108524,Salesforce,CRM
+HUBS,1404655,HubSpot,CRM
+FRSH,1544522,Freshworks,CRM
+GTM,1794515,ZoomInfo,Sales data
+NOW,1373715,ServiceNow,Workflow
+WDAY,1327811,Workday,HR and finance
+ADBE,796343,Adobe,Creative and marketing
+INTU,896878,Intuit,Finance
+ORCL,1341439,Oracle,Enterprise software
+MSFT,789019,Microsoft,Big tech
+GOOGL,1652044,Alphabet,Big tech
+AMZN,1018724,Amazon,Big tech
+ZM,1585521,Zoom,Collaboration
+TEAM,1650372,Atlassian,Collaboration
+ASAN,1477720,Asana,Collaboration
+BOX,1372612,Box,Collaboration
+DOCU,1261333,Docusign,Collaboration
+TWLO,1447669,Twilio,Communications
+DDOG,1561550,Datadog,Infrastructure
+SNOW,1640147,Snowflake,Data
+MDB,1441816,MongoDB,Data
+PLTR,1321655,Palantir,Data
+PATH,1734722,UiPath,Automation
+CRWD,1535527,CrowdStrike,Security
+OKTA,1660134,Okta,Security
